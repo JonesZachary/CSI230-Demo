@@ -8,6 +8,6 @@
 
 ### Online Resources: 
 
-[Add users to a group](https://www.techrepublic.com/article/how-to-create-users-and-groups-in-linux-from-the-command-line/)
-[Change password on first login](https://www.tecmint.com/force-user-to-change-password-next-login-in-linux/)
-[Check if user exists](https://bytefreaks.net/gnulinux/bash/linux-check-if-a-user-or-a-group-exists)
+[Add users to a group](https://www.techrepublic.com/article/how-to-create-users-and-groups-in-linux-from-the-command-line/)  
+[Change password on first login](https://www.tecmint.com/force-user-to-change-password-next-login-in-linux/)  
+[Check if user exists](https://bytefreaks.net/gnulinux/bash/linux-check-if-a-user-or-a-group-exists)  
